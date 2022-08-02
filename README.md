@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipe0liveira
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Clojure
+- 🌱 I’m currently learning about some fintech products
 - 💞️ I’m looking to collaborate more...
 
 <!---
